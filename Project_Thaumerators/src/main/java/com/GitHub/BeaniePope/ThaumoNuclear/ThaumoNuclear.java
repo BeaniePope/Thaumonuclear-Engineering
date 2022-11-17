@@ -27,5 +27,6 @@ public class ThaumoNuclear
     {
         // some example code
         logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
+
     }
 }
